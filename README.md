@@ -8,6 +8,7 @@ This is a **Telegram bot** that integrates **AI-based language generation** and 
 - **AI-Powered Responses**: Sends the translated English text to the AI21 model to generate relevant responses.
 - **English to Amharic Translation**: Translates the AI-generated response back to Amharic for user interaction.
 - **Conversation Logging**: Saves the conversation (both user input and AI response) to a text file for record-keeping.
+- ** Doesn't need to download any app
 
 ## How It Works
 
