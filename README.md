@@ -25,7 +25,7 @@ This is a **Telegram bot** that integrates **AI-based language generation** and 
 - **AI21 API**: To generate AI-powered responses based on the translated text.
 - **time**: To implement delays between requests to ensure smooth execution.
 
-## Prerequisites
+## Pre installation
 
 Before running the bot, make sure to have the following:
 
