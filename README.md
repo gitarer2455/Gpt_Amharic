@@ -38,8 +38,8 @@ Before running the bot, make sure to have the following:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/telegram-ai-translator-bot.git
-    cd telegram-ai-translator-bot
+    git clone https://github.com/gitarer2455/Gpt_amharic
+    cd Gpt_amharic
     ```
 
 2. Install the required Python libraries:
@@ -75,16 +75,3 @@ All interactions (questions and AI responses) are logged in a file named `conver
 4. **Back to Amharic**: The AI's response is translated back to **Amharic** and sent to the user.
 5. **Logging**: The conversation is saved to `conversation.txt`.
 
----
-
-### Key Modifications:
-- **Structured Overview**: Clear and concise explanation of what the bot does.
-- **Detailed Features**: A list of key functionalities describing the interaction flow.
-- **How It Works**: A simple step-by-step explanation of the workflow.
-- **Installation Instructions**: Provided a straightforward way to clone and run the bot.
-- **Conversation Log**: Mentioned how the bot logs the conversation.
-
-### Final Structure for `README.md`
-This file can now be placed in your GitHub project repository to provide users with all the information they need to understand and run your bot. When they visit your repository, they'll see a well-documented project that's easy to understand and use.
-
-Let me know if you need any adjustments!
